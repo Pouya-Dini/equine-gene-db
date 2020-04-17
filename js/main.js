@@ -46,7 +46,7 @@ var output = '';
           
           output += '<p> <b>Gene Type: </b>' + val.PTYPE + '</p>';
           output += '<p> <b>Chromosome:</b> ' + val.CHR + '</p>';
-          output += '<p> <b>Strand:</b> ' + val.Strand + '</p>';
+          output += '<p> <b>Strand:</b> ' + val.STRAND + '</p>';
           output += '<p><b> Parental Status</b>  '+tt1+'  : ' + val.PSTATUS + '</p>';
           output += '<p><b> MAE Group</b>  '+tt2+'  : ' + val.MAE + '</p>';
           output += '<p><b> Imprinting Status</b>  '+tt3+'  : ' + val.STATUS + '</p>';
