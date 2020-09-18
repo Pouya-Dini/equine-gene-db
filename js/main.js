@@ -5,7 +5,7 @@ var output = '';
  var tt1 = '<abbr title="A cutoff of maternal expression (M) >= 75% and paternal expression (P) &lt; 25% for maternally expressed candidates and M &lt; 25% and P >= 75% for paternally expressed genes were used, respectively"> ? </abbr>';
  
 
- var tt2 = '<abbr title="the MAE genes grouped into four groups based on the parental bias in their expression (Group A; 100%, Group B; 100 > - > 90%, Group C; 90 >= - > 80%, and Group D; 80 >= - >= 75% ) "> ? </abbr>';
+ var tt2 = '<abbr title="the ASE genes grouped into four groups based on the parental bias in their expression (Group A; 100%, Group B; 100 > - > 90%, Group C; 90 >= - > 80%, and Group D; 80 >= - >= 75% ) "> ? </abbr>';
 
  var tt3 = '<abbr title="The methylated cytosines with a sequencing depth >= five, and their corrected P Value of binomial test <= 0.01 were annotated to equine transcriptome. The imprinted ggenes defined as genes  that were both monoallelically expressed and had methylated cytosines"> ? </abbr>';
  var tt4 = '<abbr title="The SNPs were  detected in RNA-Seq reads and were confirmed with WGS of the samples"> ? </abbr>';
